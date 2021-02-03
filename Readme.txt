@@ -14,6 +14,7 @@ Topbar for selections
 Drag control, to move the menu around.
 Custom notification system, to show notifications to your users.
 Commented things out to show you how they work.
+Header animation.
 
 Gif : 
 https://gyazo.com/6cddcb9ad3a77595a8fece2a0b141230
