@@ -3,7 +3,7 @@ Simple UI Base For A GTA V Mod Menu Launcher/Loader.
 Things to DO : 
 - Add ur login/key system
 - Replace things in the code like, injector name,file names,changelog link, animated panels to add more features.
-
+- Credit me :D
 
 Includes :
 
